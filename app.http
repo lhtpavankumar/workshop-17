@@ -1,0 +1,12 @@
+POST http://localhost:3000/post 
+Content-Type: application/json
+
+{
+  "username": "Iphone",
+  "password": "iphone",
+  "confirm_password": "iphone",
+  "email": "phone@gmail.com",
+  "mobile_no": "984789045",
+  
+
+}
